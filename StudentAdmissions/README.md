@@ -16,7 +16,6 @@ To use this repo just download the repository, open in jupyter notebook. Start c
 - Jupyter Notebook
 - Matplotlib
 - Pandas
-- Numpy
 - Other dependencies 
 
 ### Contributing
@@ -27,7 +26,3 @@ Feel free to submit pull requests to me.
 - Sarwar Hayat
 - Udacity Deep Learning Nanodegree
 
-
-```python
-
-```
